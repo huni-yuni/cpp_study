@@ -1,0 +1,2 @@
+D:\Projects\Test_Request\Debug\Test_Request.exe
+D:\Projects\Test_Request\Debug\Test_Request.pdb

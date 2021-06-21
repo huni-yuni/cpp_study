@@ -1,0 +1,6 @@
+﻿  main.cpp
+  CArray.inl
+  Tests.cpp
+D:\Projects\Test_Request\Tests.cpp(130,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Test_Request.vcxproj -> D:\Projects\Test_Request\Debug\Test_Request.exe
