@@ -1,2 +1,3 @@
 D:\Projects\Test_Request\Debug\Test_Request.exe
 D:\Projects\Test_Request\Debug\Test_Request.pdb
+D:\Projects\My_cpp_project\Test_Request\Debug\Test_Request.exe
