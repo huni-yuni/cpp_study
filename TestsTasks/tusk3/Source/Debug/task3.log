@@ -1,9 +1,0 @@
-﻿  Logstring.cpp
-D:\Projects\My_cpp_project\tusk3\Source\Logstring.cpp(118,35): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Projects\My_cpp_project\tusk3\Source\Logstring.cpp(174,28): warning C4018: <: несоответствие типов со знаком и без знака
-  OutData.cpp
-  Source.cpp
-  task3.cpp
-  Создание кода...
-D:\Projects\My_cpp_project\tusk3\Source\Logstring.h(104): warning C4715: Logstring::getAct: значение возвращается не при всех путях выполнения
-  task3.vcxproj -> D:\Projects\My_cpp_project\tusk3\Source\Debug\task3.exe

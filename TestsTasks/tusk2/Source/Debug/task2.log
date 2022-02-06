@@ -1,8 +1,0 @@
-﻿  task2.cpp
-D:\Projects\My_cpp_project\TestsTasks\tusk2\Source\task2.cpp(32,28): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Projects\My_cpp_project\TestsTasks\tusk2\Source\task2.cpp(35,28): warning C4018: <: несоответствие типов со знаком и без знака
-  Triangle.cpp
-D:\Projects\My_cpp_project\TestsTasks\tusk2\Source\Triangle.cpp(92,28): warning C4018: <: несоответствие типов со знаком и без знака
-  Создание кода...
-  LINK : не найден или не выполнена сборка D:\Projects\My_cpp_project\TestsTasks\TestsTasks\Debug\task2.exe при последней инкрементной компоновке; выполняется полная компоновка
-  task2.vcxproj -> D:\Projects\My_cpp_project\TestsTasks\TestsTasks\Debug\task2.exe

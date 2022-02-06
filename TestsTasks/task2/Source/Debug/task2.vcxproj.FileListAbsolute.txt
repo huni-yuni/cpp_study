@@ -1,0 +1,3 @@
+D:\Projects\My_cpp_project\tusk2\Source\Debug\task2.exe
+D:\Projects\My_cpp_project\TestsTasks\tusk2\Source\Debug\task2.exe
+D:\Projects\My_cpp_project\TestsTasks\task2\Source\Debug\task2.exe
