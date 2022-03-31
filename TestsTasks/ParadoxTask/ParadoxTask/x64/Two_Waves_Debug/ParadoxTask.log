@@ -1,0 +1,4 @@
+﻿  Main.cpp
+  PathFinder_TwoWaves.cpp
+D:\Projects\My_cpp_project\TestsTasks\ParadoxTask\ParadoxTask\src\PathFinder_TwoWaves.cpp(180,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ParadoxTask.vcxproj -> D:\Projects\My_cpp_project\TestsTasks\TestsTasks\x64\Two_Waves_Debug\ParadoxTask.exe
