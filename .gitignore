@@ -7,3 +7,4 @@ x86/
 *.pdb
 *.ipdb
 *.iobj
+*.user
