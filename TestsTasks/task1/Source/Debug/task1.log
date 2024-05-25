@@ -1,4 +1,0 @@
-﻿  task1.cpp
-D:\Projects\My_cpp_project\TestsTasks\task1\Source\task1.cpp(7,26): warning C4100: argv: неиспользованный формальный параметр
-D:\Projects\My_cpp_project\TestsTasks\task1\Source\task1.cpp(7,14): warning C4100: argc: неиспользованный формальный параметр
-  task1.vcxproj -> D:\Projects\My_cpp_project\TestsTasks\task1\Source\Debug\task1.exe

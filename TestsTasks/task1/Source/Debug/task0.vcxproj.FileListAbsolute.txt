@@ -1,2 +1,0 @@
-D:\Projects\My_cpp_project\tusk1\Source\Debug\task1.exe
-D:\Projects\My_cpp_project\TestsTasks\tusk1\Source\Debug\task1.exe
